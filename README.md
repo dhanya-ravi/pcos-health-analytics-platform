@@ -9,13 +9,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-EDA-76B900)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![Status](https://img.shields.io/badge/Project-Portfolio-success)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 </p>
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Polycystic Ovary Syndrome (PCOS) is one of the most common endocrine disorders affecting women of reproductive age. Early diagnosis is often challenging because symptoms vary widely between individuals.
 
@@ -33,7 +33,7 @@ The project covers:
 
 ---
 
-# 📑 Table of Contents
+# Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Objectives](#-objectives)
@@ -76,7 +76,7 @@ The project covers:
 
 ---
 
-# 🗂 Repository Structure
+# Repository Structure
 
 ```text
 pcos-health-analytics-platform
@@ -130,7 +130,7 @@ Model Evaluation
 
 ---
 
-# 📈 Exploratory Data Analysis
+# Exploratory Data Analysis
 
 The exploratory analysis focused on understanding patient demographics, lifestyle factors, clinical characteristics, hormonal profile, and ultrasound measurements.
 
@@ -143,7 +143,7 @@ The exploratory analysis focused on understanding patient demographics, lifestyl
 
 ---
 
-# 🔥 Correlation Analysis
+# Correlation Analysis
 
 <p align="center">
 <img width="900" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/52048e66-6ae2-4d2f-9cec-df4f59c3c6b7">
@@ -168,7 +168,7 @@ These findings supported the exploratory analysis and highlighted clinically rel
 
 ---
 
-# 🤖 Machine Learning
+# Machine Learning
 
 Two supervised classification models were developed and evaluated.
 
@@ -185,7 +185,7 @@ Two supervised classification models were developed and evaluated.
 
 ---
 
-# 🌟 Feature Importance
+# Feature Importance
 
 The Random Forest model identified the following variables as the strongest predictors of PCOS:
 
@@ -204,7 +204,7 @@ These findings are consistent with established clinical indicators reported in t
 
 ---
 
-# 🏆 Results
+#  Results
 
 - Developed a complete end-to-end machine learning pipeline for PCOS prediction.
 - Achieved approximately **90% classification accuracy**.
@@ -213,7 +213,7 @@ These findings are consistent with established clinical indicators reported in t
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Hyperparameter tuning using GridSearchCV or RandomizedSearchCV
 - Evaluate additional models such as XGBoost and LightGBM
